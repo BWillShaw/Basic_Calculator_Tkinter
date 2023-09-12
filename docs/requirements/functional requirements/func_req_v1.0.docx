@@ -1,0 +1,28 @@
+Functional Requirements Document for Basic Calculator Desktop App
+Document Information
+Project Name: Basic Calculator Desktop App
+Version: 1.0
+Date: September 10, 2023
+Author: [Author's Name]
+Stakeholders: Development Team, QA Team, Product Management, Users
+Introduction
+This document outlines the functional requirements for a basic calculator desktop application. The purpose is to provide all the functionalities that are needed to perform basic arithmetic calculations.
+
+Functional Requirements
+User Interface
+FR1.1: The application shall have a Graphical User Interface (GUI).
+FR1.2: The GUI shall include buttons for the digits 0-9.
+FR1.3: The GUI shall include buttons for the operations: addition (+), subtraction (-), multiplication (*), and division (/).
+FR1.4: The GUI shall include a display screen to show numbers and results.
+Features & Functions
+FR2.1: The calculator shall perform addition.
+FR2.2: The calculator shall perform subtraction.
+FR2.3: The calculator shall perform multiplication.
+FR2.4: The calculator shall perform division.
+FR2.5: The calculator shall perform calculations in real-time as the user presses buttons.
+Inputs/Outputs
+FR3.1: The calculator shall accept numerical input from the user through mouse clicks.
+FR3.2: The calculator shall display the result in the display screen.
+Error Handling
+FR4.1: The calculator shall display an error message for division by zero.
+FR4.2: The calculator shall limit the number of digits to a maximum of 12 digits to avoid overflow.
