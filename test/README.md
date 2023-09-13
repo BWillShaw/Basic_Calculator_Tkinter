@@ -20,7 +20,7 @@ This testing phase corresponds to sprint #3, which is focused on creating a reli
 
 To run the tests, execute the following command from the root (app) directory of the project:
 
-`'' cmd
+``` cmd
 python -m unittest test_calculator.py
 ```
 
